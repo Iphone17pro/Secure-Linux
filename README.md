@@ -17,7 +17,7 @@ Próximamente: firewall con ufw, fail2ban, deshabilitar servicios innecesarios, 
 Clona el repo y ejecútalo como root. Recomiendo probarlo primero en una máquina virtual.
 
 ```bash
-git clone https://github.com/tu-usuario/Secure-Linux.git
+git clone https://github.com/Iphone17pro/Secure-Linux.git
 cd Secure-Linux
 sudo bash securing.sh
 ```
