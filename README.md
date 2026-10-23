@@ -1,6 +1,6 @@
 # Secure Linux
 
-Script bash de bastionado para sistemas Debian/Ubuntu.
+Script bash  para sistemas Debian/Ubuntu.
 Lo estoy desarrollando por fases mientras aprendo, así que irá creciendo.
 
 Probado en Ubuntu 22.04 y Debian 12. No lo puedo garantizar en otras distros.
